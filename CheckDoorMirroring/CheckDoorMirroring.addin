@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIn>
+	<AddIn Type="Application">
+		<Name>CheckDoorMirroring</Name>
+		<Assembly>CheckDoorMirroring.dll</Assembly>
+		<AddInId>A1B8E27A-926A-4F7F-A39B-899D26A6E8E2</AddInId>
+		<FullClassName>CheckDoorMirroring.App</FullClassName>
+		<VendorId>R-Prishchep</VendorId>
+		<VendorDescription></VendorDescription>
+	</AddIn>
+</RevitAddIn>
